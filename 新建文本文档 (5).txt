@@ -1,0 +1,3 @@
+代理: https://www.kuaidaili.com/free/inha/
+爬虫: https://www.xuxueli.com/xxl-crawler/#3.5%20%E6%A0%B8%E5%BF%83%E6%B3%A8%E8%A7%A3%EF%BC%9APageFieldSelect
+mybatis-plus: https://mp.baomidou.com/guide/quick-start.html#%E6%B7%BB%E5%8A%A0%E4%BE%9D%E8%B5%96
